@@ -1,4 +1,4 @@
-def katz_deli(line)
+def katz_deli(array)
   line = []
   if line == []
   put = "The line is currently empty." 
