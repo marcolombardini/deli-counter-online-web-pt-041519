@@ -1,7 +1,7 @@
 def katz_deli(line)
   line = []
   if line == []
-  line = "the line is empty." 
+  line = "The line is currently empty." 
   end
   puts katz_deli
 end
